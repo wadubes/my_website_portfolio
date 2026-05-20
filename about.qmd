@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+## Background
+Hello, I’m Jacqueline! I’m a third-year Economics student at UCLA, originally from Sacramento. My professional journey began in the Technology Services division of the California Department of Education, where I worked with enterprise systems and provided high-level technical support. While I started in business, my time in IT revealed a passion for the technical side of problem-solving. Today, I am combining my background in Economics with my technical experience to pursue a career as a Data Analyst, focusing on how data can drive smarter organizational decisions.
+
+## Interests
+* Data Visualization
+* Machine Learning
+* Weightlifting
+* Video Editing
+
+## Goals
+
+* **Short-term:** Complete my Economics coursework at UCLA while building a portfolio of data visualization projects using R.
+* **Long-term:** Pivot into a Data Analyst role where I can bridge the gap between technical IT infrastructure and high-level business strategy.
+* **Aspiration:** I hope to work on projects that utilize large-scale data sets to improve organizational efficiency and public policy.
