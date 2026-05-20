@@ -1,0 +1,17 @@
+---
+title: "Jacqueline Wu"
+about:
+  template: trestles
+  image: profile_picture.jpg # Make sure your photo is in the project folder!
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/wu-jacqueline
+    - icon: github
+      text: Github
+      href: https://github.com/wadubes
+---
+
+Welcome to my portfolio! I am a current student at UCLA studying Economics. 
+Check out my About page to learn more about my background.
+
