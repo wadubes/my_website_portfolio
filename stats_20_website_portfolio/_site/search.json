@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacqueline Wu",
+    "section": "",
+    "text": "Welcome to my portfolio! I am a current student at UCLA studying Economics. Check out my About page to learn more about my background."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Jacqueline Wu",
+    "section": "## Background",
+    "text": "## Background"
+  },
+  {
+    "objectID": "index.html#title-about-me",
+    "href": "index.html#title-about-me",
+    "title": "Jacqueline Wu",
+    "section": "title: “About Me”",
+    "text": "title: “About Me”"
+  },
+  {
+    "objectID": "index.html#background-1",
+    "href": "index.html#background-1",
+    "title": "Jacqueline Wu",
+    "section": "Background",
+    "text": "Background\nHello, I’m Jacqueline! I’m a third-year Economics student at UCLA, originally from Sacramento. My professional journey began in the Technology Services division of the California Department of Education, where I worked with enterprise systems and provided high-level technical support. While I started in business, my time in IT revealed a passion for the technical side of problem-solving. Today, I am combining my background in Economics with my technical experience to pursue a career as a Data Analyst, focusing on how data can drive smarter organizational decisions."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Jacqueline Wu",
+    "section": "Interests",
+    "text": "Interests\n\nData Visualization\nMachine Learning\nWeightlifting\nVideo Editing"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Jacqueline Wu",
+    "section": "Goals",
+    "text": "Goals\n\nShort-term: Complete my Economics coursework at UCLA while building a portfolio of data visualization projects using R.\nLong-term: Pivot into a Data Analyst role where I can bridge the gap between technical IT infrastructure and high-level business strategy.\nAspiration: I hope to work on projects that utilize large-scale data sets to improve organizational efficiency and public policy."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Jacqueline! I’m a third-year Economics student at UCLA, originally from Sacramento. My professional journey began in the Technology Services division of the California Department of Education, where I worked with enterprise systems and provided high-level technical support. While I started in business, my time in IT revealed a passion for the technical side of problem-solving. Today, I am combining my background in Economics with my technical experience to pursue a career as a Data Analyst, focusing on how data can drive smarter organizational decisions."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Jacqueline! I’m a third-year Economics student at UCLA, originally from Sacramento. My professional journey began in the Technology Services division of the California Department of Education, where I worked with enterprise systems and provided high-level technical support. While I started in business, my time in IT revealed a passion for the technical side of problem-solving. Today, I am combining my background in Economics with my technical experience to pursue a career as a Data Analyst, focusing on how data can drive smarter organizational decisions."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nData Visualization\nMachine Learning\nWeightlifting\nVideo Editing"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About",
+    "section": "Goals",
+    "text": "Goals\n\nShort-term: Complete my Economics coursework at UCLA while building a portfolio of data visualization projects using R.\nLong-term: Pivot into a Data Analyst role where I can bridge the gap between technical IT infrastructure and high-level business strategy.\nAspiration: I hope to work on projects that utilize large-scale data sets to improve organizational efficiency and public policy."
+  }
+]
